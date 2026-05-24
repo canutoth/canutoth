@@ -20,3 +20,7 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=canutoth&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" alt="github streak" />
 </div>
+
+<div align="left">
+  <img src="languages.svg" alt="top languages" />
+</div>
