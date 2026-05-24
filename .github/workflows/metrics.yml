@@ -1,0 +1,24 @@
+name: generate metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch: # permite rodar o script manualmente num botão
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate languages donut chart
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "" # desativa as estatísticas normais
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes # analisa até repositórios que você contribuiu
+          config_timezone: America/Sao_Paulo
