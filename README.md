@@ -1,16 +1,21 @@
-## Hi there 👋
+## hi! i'm theo 🐢
 
-<!--
-**canutoth/canutoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👾 how i operate
+- 🐍 developer building things, mostly with **python**.
+- 🎧 my brain focuses best when i'm coding to omer adam, game soundtracks, or a tabletop rpg session playing in the background.
+- 🎲 when i'm away from the keyboard, i'm probably hyperfixating on **pokémon**, rewatching **avatar: the last airbender**, playing video games or playing in an rpg campaign.
+- 🐢 (and yes, i really do like turtles).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ what i use
+<p>
+  <img src="https://img.shields.io/badge/python-2E3440?style=flat-square&logo=python&logoColor=8FBCBB" />
+  <img src="https://img.shields.io/badge/git-2E3440?style=flat-square&logo=git&logoColor=8FBCBB" />
+  <img src="https://img.shields.io/badge/linux-2E3440?style=flat-square&logo=linux&logoColor=8FBCBB" />
+</p>
+
+### 📊 adventure status
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=canutoth&show_icons=true&theme=nord&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canutoth&layout=compact&theme=nord&hide_border=true" height="160">
+</div>
