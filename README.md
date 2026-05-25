@@ -4,6 +4,7 @@
 </p>
 
 ### 📝 publications
+- 📄 [Understanding developer well-being: measuring mental health and productivity in software teams](https://link.springer.com/article/10.1007/s10664-026-10830-6) - *EMSE (2026)*
 - 📄 [Leveraging Large Language Models for Sentiment Analysis in GitHub Pull Request Discussions](https://link.springer.com/content/pdf/10.1007/s10664-026-10868-6.pdf) - *EMSE (2026)*
 - 📄 [Diversity Matters: Perceived Inclusion and Discrimination by Brazilian Tech Professionals](https://sol.sbc.org.br/index.php/sbes/article/view/37014) - *SBES (2025)*
 - 📄 [Pain in a Safe Space: Mapping Emotions and Discourse in the Womenintech Subreddit](https://sol.sbc.org.br/index.php/sbes/article/view/37051) - *SBES IIER (2025)*
